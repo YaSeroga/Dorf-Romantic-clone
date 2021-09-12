@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: aae422a09269ba74da20abb63ad6a659, type: 3}
   m_Name: Main Storage
   m_EditorClassIdentifier: 
-  StartField: {fileID: 2277232202465337211, guid: e32a93705a768f744a527dbab75ad87f, type: 3}
-  Other:
+  _startField: {fileID: 2277232202465337211, guid: e32a93705a768f744a527dbab75ad87f, type: 3}
+  _empty: {fileID: 4208284743473051125, guid: 05eb6be74486bf54bac585b15d98b1b3, type: 3}
+  _other:
   - {fileID: 2277232202465337211, guid: e32a93705a768f744a527dbab75ad87f, type: 3}
-  Empty: {fileID: 4208284743473051125, guid: 05eb6be74486bf54bac585b15d98b1b3, type: 3}

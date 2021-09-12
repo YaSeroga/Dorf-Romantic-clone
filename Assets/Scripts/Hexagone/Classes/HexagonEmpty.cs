@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class HexagoneEmpty : Hexagone
+public class HexagonEmpty : Hexagon
 {
     protected override void GetNeighbors()
     {
